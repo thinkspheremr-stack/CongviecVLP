@@ -1,6 +1,10 @@
 {
-  "name": "",
-  "description": "",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "Quản lý tài liệu Ver 3",
+  "description": "Ứng dụng chuyên nghiệp cho chuyên gia quản lý: theo dõi công việc theo danh mục WBS, biểu chi tiết dự án, tiến độ & scan lưu trữ tài liệu trực tiếp vào Google Drive.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
